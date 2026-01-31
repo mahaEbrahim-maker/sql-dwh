@@ -7,10 +7,13 @@ Building a Modern DWH using SQL Server including ETL Process and Data Modeling /
 sql-dwh/
 │
 ├── datasets/                           # Raw datasets used for the course (ERP and CRM data)
+
 │
 ├── docs/                               # course documentation and architecture details
+
 │
 └── scripts/                            # All codes presented in the course
+
 
 
 🌟 About Me
